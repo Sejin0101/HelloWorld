@@ -2,6 +2,8 @@
 ## sub title
 ### sub stitle
 
+# 기능 1을 추가합니다.
+
 # 나의 소개
 <img src="1.jpg" width="300" height="300"/><br>
 안녕하세요. 동미입니다.
