@@ -10,9 +10,9 @@
 -
 
 # 내가 들은 과목
-[파이썬 프로그래밍](http://www.python.org)
-
-자바 프로그래밍
+> [파이썬 프로그래밍](http://www.python.org)
+> > [자바 프로그래밍](http://www.Java.org)
+> > > [DB프로그래밍](http://www.DB.org)
 
 # 공모전 수상현황
 전국 대학생 IT 아이디어 대회
@@ -21,4 +21,7 @@
 발표동영상
 <iframe width="640" height="360" src="https://www.youtube.com/embed/t24C0DMcNMM" title="대학교에 돔구장이?!⚾ 매출 3조✨대기업이 재단인 동양미래대학교 대학탐방기🛴" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-처음
+
+마이 홈페이지
+==================
+[주소](https://sejin0101.github.io/HelloWorld/)
