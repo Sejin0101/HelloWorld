@@ -16,7 +16,7 @@
 # 내가 들은 과목
 > [파이썬 프로그래밍](http://www.python.org)
 > > [자바 프로그래밍](http://www.Java.org)
-> > > [DB프로그래밍](http://www.DB.org)
+> > > [마크다운 언어](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
 # 공모전 수상현황
 전국 대학생 IT 아이디어 대회
