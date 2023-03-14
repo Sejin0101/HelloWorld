@@ -10,7 +10,7 @@
 -
 
 # 수행 프로젝트
-## [AI기반 프로젝트]
+## [AI기반 프로젝트](https://sejin0101.github.io/modern-resume-theme/)
 
 
 # 내가 들은 과목
